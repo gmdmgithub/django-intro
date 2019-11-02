@@ -2,13 +2,13 @@
 
 ## Instalation
 
-** Pipenv **
+**Pipenv**
 
 ``` 
 pipenv shell
 ```
 
-** django **
+**django**
  
 ``` 
 pipenv install django
@@ -17,5 +17,5 @@ pipenv install django
 ## DB - default is SQLite - stick at firs
 
 ## Command lines
-** Start project **
+**Start project**
 - `$ django-admin startproject`
