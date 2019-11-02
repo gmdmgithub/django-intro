@@ -18,4 +18,4 @@ pipenv install django
 
 ## Command lines
 ** Start project **
-`$ django-admin startproject`
+- `$ django-admin startproject`
